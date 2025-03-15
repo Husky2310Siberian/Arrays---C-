@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysTwoDim/bin/Debug/net9.0/ArraysTwoDim
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysTwoDim/bin/Debug/net9.0/ArraysTwoDim.deps.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysTwoDim/bin/Debug/net9.0/ArraysTwoDim.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysTwoDim/bin/Debug/net9.0/ArraysTwoDim.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysTwoDim/bin/Debug/net9.0/ArraysTwoDim.pdb
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysTwoDim/obj/Debug/net9.0/ArraysTwoDim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysTwoDim/obj/Debug/net9.0/ArraysTwoDim.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysTwoDim/obj/Debug/net9.0/ArraysTwoDim.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysTwoDim/obj/Debug/net9.0/ArraysTwoDim.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysTwoDim/obj/Debug/net9.0/ArraysTwoDim.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysTwoDim/obj/Debug/net9.0/ArraysTwoDim.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysTwoDim/obj/Debug/net9.0/refint/ArraysTwoDim.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysTwoDim/obj/Debug/net9.0/ArraysTwoDim.pdb
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysTwoDim/obj/Debug/net9.0/ArraysTwoDim.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysTwoDim/obj/Debug/net9.0/ref/ArraysTwoDim.dll

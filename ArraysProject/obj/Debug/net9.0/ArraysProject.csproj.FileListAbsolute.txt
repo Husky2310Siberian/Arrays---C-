@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysProject/bin/Debug/net9.0/ArraysProject
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysProject/bin/Debug/net9.0/ArraysProject.deps.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysProject/bin/Debug/net9.0/ArraysProject.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysProject/bin/Debug/net9.0/ArraysProject.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysProject/bin/Debug/net9.0/ArraysProject.pdb
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysProject/obj/Debug/net9.0/ArraysProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysProject/obj/Debug/net9.0/ArraysProject.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysProject/obj/Debug/net9.0/ArraysProject.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysProject/obj/Debug/net9.0/ArraysProject.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysProject/obj/Debug/net9.0/ArraysProject.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysProject/obj/Debug/net9.0/ArraysProject.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysProject/obj/Debug/net9.0/refint/ArraysProject.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysProject/obj/Debug/net9.0/ArraysProject.pdb
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysProject/obj/Debug/net9.0/ArraysProject.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArraysProject/obj/Debug/net9.0/ref/ArraysProject.dll
