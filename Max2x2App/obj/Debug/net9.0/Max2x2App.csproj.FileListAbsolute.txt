@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ArraysProject/Max2x2App/bin/Debug/net9.0/Max2x2App
+/Users/vasiliskr/7.C# .NET/ArraysProject/Max2x2App/bin/Debug/net9.0/Max2x2App.deps.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/Max2x2App/bin/Debug/net9.0/Max2x2App.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/Max2x2App/bin/Debug/net9.0/Max2x2App.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/Max2x2App/bin/Debug/net9.0/Max2x2App.pdb
+/Users/vasiliskr/7.C# .NET/ArraysProject/Max2x2App/obj/Debug/net9.0/Max2x2App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ArraysProject/Max2x2App/obj/Debug/net9.0/Max2x2App.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/Max2x2App/obj/Debug/net9.0/Max2x2App.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ArraysProject/Max2x2App/obj/Debug/net9.0/Max2x2App.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/Max2x2App/obj/Debug/net9.0/Max2x2App.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/Max2x2App/obj/Debug/net9.0/Max2x2App.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/Max2x2App/obj/Debug/net9.0/refint/Max2x2App.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/Max2x2App/obj/Debug/net9.0/Max2x2App.pdb
+/Users/vasiliskr/7.C# .NET/ArraysProject/Max2x2App/obj/Debug/net9.0/Max2x2App.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/Max2x2App/obj/Debug/net9.0/ref/Max2x2App.dll
