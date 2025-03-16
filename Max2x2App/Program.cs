@@ -10,6 +10,9 @@ class Program
         int maxSum = int.MinValue;
         int rowMax = 0;
         int colMax = 0;
+        int sumLongest = 0;
+        int rowLongest = 0;
+        int colLongest = 0;
         int[,] matrix =
         {
             {1, 2, 3, 4, 5, 6 },

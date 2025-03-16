@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayDemo/bin/Debug/net9.0/ArrayDemo
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayDemo/bin/Debug/net9.0/ArrayDemo.deps.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayDemo/bin/Debug/net9.0/ArrayDemo.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayDemo/bin/Debug/net9.0/ArrayDemo.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayDemo/bin/Debug/net9.0/ArrayDemo.pdb
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayDemo/obj/Debug/net9.0/ArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayDemo/obj/Debug/net9.0/ArrayDemo.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayDemo/obj/Debug/net9.0/ArrayDemo.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayDemo/obj/Debug/net9.0/ArrayDemo.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayDemo/obj/Debug/net9.0/ArrayDemo.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayDemo/obj/Debug/net9.0/ArrayDemo.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayDemo/obj/Debug/net9.0/refint/ArrayDemo.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayDemo/obj/Debug/net9.0/ArrayDemo.pdb
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayDemo/obj/Debug/net9.0/ArrayDemo.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayDemo/obj/Debug/net9.0/ref/ArrayDemo.dll
