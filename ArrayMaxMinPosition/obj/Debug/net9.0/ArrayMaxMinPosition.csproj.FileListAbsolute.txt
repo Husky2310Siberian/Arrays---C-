@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayMaxMinPosition/bin/Debug/net9.0/ArrayMaxMinPosition
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayMaxMinPosition/bin/Debug/net9.0/ArrayMaxMinPosition.deps.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayMaxMinPosition/bin/Debug/net9.0/ArrayMaxMinPosition.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayMaxMinPosition/bin/Debug/net9.0/ArrayMaxMinPosition.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayMaxMinPosition/bin/Debug/net9.0/ArrayMaxMinPosition.pdb
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayMaxMinPosition/obj/Debug/net9.0/ArrayMaxMinPosition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayMaxMinPosition/obj/Debug/net9.0/ArrayMaxMinPosition.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayMaxMinPosition/obj/Debug/net9.0/ArrayMaxMinPosition.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayMaxMinPosition/obj/Debug/net9.0/ArrayMaxMinPosition.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayMaxMinPosition/obj/Debug/net9.0/ArrayMaxMinPosition.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayMaxMinPosition/obj/Debug/net9.0/ArrayMaxMinPosition.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayMaxMinPosition/obj/Debug/net9.0/refint/ArrayMaxMinPosition.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayMaxMinPosition/obj/Debug/net9.0/ArrayMaxMinPosition.pdb
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayMaxMinPosition/obj/Debug/net9.0/ArrayMaxMinPosition.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayMaxMinPosition/obj/Debug/net9.0/ref/ArrayMaxMinPosition.dll
