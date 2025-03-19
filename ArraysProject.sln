@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayInitReadDemo", "ArrayI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumElementsArray", "SumElementsArray\SumElementsArray.csproj", "{3F596E9F-0B68-4DD6-BFC4-3919DF900641}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayMaxMinPosition", "ArrayMaxMinPosition\ArrayMaxMinPosition.csproj", "{3E4AAD38-B1B8-40BD-8A5C-E3E71893575D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{3F596E9F-0B68-4DD6-BFC4-3919DF900641}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F596E9F-0B68-4DD6-BFC4-3919DF900641}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F596E9F-0B68-4DD6-BFC4-3919DF900641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E4AAD38-B1B8-40BD-8A5C-E3E71893575D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4AAD38-B1B8-40BD-8A5C-E3E71893575D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4AAD38-B1B8-40BD-8A5C-E3E71893575D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4AAD38-B1B8-40BD-8A5C-E3E71893575D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
