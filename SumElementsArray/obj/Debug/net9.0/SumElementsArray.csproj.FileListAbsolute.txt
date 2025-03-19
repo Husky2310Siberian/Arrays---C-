@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ArraysProject/SumElementsArray/bin/Debug/net9.0/SumElementsArray
+/Users/vasiliskr/7.C# .NET/ArraysProject/SumElementsArray/bin/Debug/net9.0/SumElementsArray.deps.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/SumElementsArray/bin/Debug/net9.0/SumElementsArray.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/SumElementsArray/bin/Debug/net9.0/SumElementsArray.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/SumElementsArray/bin/Debug/net9.0/SumElementsArray.pdb
+/Users/vasiliskr/7.C# .NET/ArraysProject/SumElementsArray/obj/Debug/net9.0/SumElementsArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ArraysProject/SumElementsArray/obj/Debug/net9.0/SumElementsArray.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/SumElementsArray/obj/Debug/net9.0/SumElementsArray.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ArraysProject/SumElementsArray/obj/Debug/net9.0/SumElementsArray.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/SumElementsArray/obj/Debug/net9.0/SumElementsArray.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/SumElementsArray/obj/Debug/net9.0/SumElementsArray.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/SumElementsArray/obj/Debug/net9.0/refint/SumElementsArray.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/SumElementsArray/obj/Debug/net9.0/SumElementsArray.pdb
+/Users/vasiliskr/7.C# .NET/ArraysProject/SumElementsArray/obj/Debug/net9.0/SumElementsArray.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/SumElementsArray/obj/Debug/net9.0/ref/SumElementsArray.dll

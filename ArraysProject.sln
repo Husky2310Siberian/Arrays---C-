@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDemo", "ArrayDemo\Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayInitReadDemo", "ArrayInitReadDemo\ArrayInitReadDemo.csproj", "{178A247F-CBA8-4449-AF6A-5C0E8277EA0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumElementsArray", "SumElementsArray\SumElementsArray.csproj", "{3F596E9F-0B68-4DD6-BFC4-3919DF900641}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{178A247F-CBA8-4449-AF6A-5C0E8277EA0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{178A247F-CBA8-4449-AF6A-5C0E8277EA0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{178A247F-CBA8-4449-AF6A-5C0E8277EA0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F596E9F-0B68-4DD6-BFC4-3919DF900641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F596E9F-0B68-4DD6-BFC4-3919DF900641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F596E9F-0B68-4DD6-BFC4-3919DF900641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F596E9F-0B68-4DD6-BFC4-3919DF900641}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
