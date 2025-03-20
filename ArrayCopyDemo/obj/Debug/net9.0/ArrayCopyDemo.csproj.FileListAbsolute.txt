@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayCopyDemo/bin/Debug/net9.0/ArrayCopyDemo
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayCopyDemo/bin/Debug/net9.0/ArrayCopyDemo.deps.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayCopyDemo/bin/Debug/net9.0/ArrayCopyDemo.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayCopyDemo/bin/Debug/net9.0/ArrayCopyDemo.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayCopyDemo/bin/Debug/net9.0/ArrayCopyDemo.pdb
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayCopyDemo/obj/Debug/net9.0/ArrayCopyDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayCopyDemo/obj/Debug/net9.0/ArrayCopyDemo.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayCopyDemo/obj/Debug/net9.0/ArrayCopyDemo.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayCopyDemo/obj/Debug/net9.0/ArrayCopyDemo.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayCopyDemo/obj/Debug/net9.0/ArrayCopyDemo.sourcelink.json
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayCopyDemo/obj/Debug/net9.0/ArrayCopyDemo.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayCopyDemo/obj/Debug/net9.0/refint/ArrayCopyDemo.dll
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayCopyDemo/obj/Debug/net9.0/ArrayCopyDemo.pdb
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayCopyDemo/obj/Debug/net9.0/ArrayCopyDemo.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/ArraysProject/ArrayCopyDemo/obj/Debug/net9.0/ref/ArrayCopyDemo.dll
