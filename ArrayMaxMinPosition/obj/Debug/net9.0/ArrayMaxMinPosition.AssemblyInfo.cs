@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayMaxMinPosition")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40685df4cf1824ed0d859b98721fd45f57499be4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d8565a8dc9ef8a3e4ea7d44083c46b385366a36")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayMaxMinPosition")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayMaxMinPosition")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
